@@ -1,0 +1,30 @@
+body{
+    /*
+    background-color: beige;
+    background-image: url(imagenes/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    */
+}
+
+#caja{
+    border: solid black 1px;
+    padding: 10px;
+    background: lightcoral;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: red;
+    border: solid red 1px;
+    padding: 10px;
+    background-image: url(imagenes/fondo2.jpg) ;
+}
+
+p{
+    text-align: justify;
+    color: black;
+}
+
